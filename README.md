@@ -1,16 +1,22 @@
-## Hi there 👋
+# Timothée Bacher
 
-<!--
-**tbacher85/tbacher85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Technical Product Manager & Fractional Product Strategist**  
+*Systems architecture, technical product frameworks, and front-end engineering.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏛️ PRISM Publication
+I write long-form essays analyzing the intersection of software architecture, engineering culture, and regional dynamics.
+
+* 📍 **Latest Essay:** [The Operator’s Base: Why Yerevan Refuses to Be a Digital Nomad Playground]([https://prismagency.substack.com](https://timotheebacher.substack.com/p/the-operators-base-why-yerevan-refuses?r=3ryhlv&utm_campaign=post-expanded-share&utm_medium=web))
+* 📬 **Newsletter:** [Subscribe to PRISM on Substack]([https://prismagency.substack.com](https://substack.com/@prismagency))
+
+---
+
+### 🛠️ What I Build
+* **Product Strategy:** API/SDK management, enterprise software governance, micro-SaaS architecture.
+* **Prototyping & Tools:** Interactive web apps, historical tools, lightweight front-end components.
+
+---
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/timothee-bacher/) | [Substack]([https://prismagency.substack.com](https://substack.com/@prismagency))
